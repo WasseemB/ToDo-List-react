@@ -1,0 +1,19 @@
+{
+  "components": {
+    "TodoItem": {},
+    "Todos": {
+      "attributes": [
+        "todos"
+      ],
+      "props": {
+        "todos": {
+          "type": {
+            "name": "array"
+          },
+          "required": true,
+          "description": ""
+        }
+      }
+    }
+  }
+}
